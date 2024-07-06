@@ -1,0 +1,43 @@
+.loginImage {
+  width: 600px;
+}
+.loginContainer {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  height: 100vh;
+}
+
+.logo {
+  width: 180px;
+  margin-bottom: 20px;
+}
+label {
+  color: #475569;
+  font-weight: 500;
+  font-family: 'Roboto';
+}
+
+input {
+  width: 250px;
+  height: 30px;
+  margin-top: 5px;
+  margin-bottom: 13px;
+  font-family: 'Roboto';
+}
+
+button {
+  margin-top: 5px;
+  width: 260px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  background-color: #0b69ff;
+  color: white;
+  font-family: 'Roboto';
+  border-radius: 7px;
+  font-size: 15px;
+}
+.message {
+  color: #ff0b37;
+  font-family: 'Roboto';
+}
